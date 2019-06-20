@@ -1,0 +1,48 @@
+
+body
+{
+  
+    background-image:url('https://media3.giphy.com/media/3ov9jP8cON5slgnumc/200w.webp?cid=790b76115d0b7fbd4a396f664195c11f&rid=200w.webp');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: cover;
+    height:100%;
+    width:100%;
+}
+
+    h2{
+      text-align: center;
+      font-style: inherit;
+      color: green;
+    }
+
+
+    .text-muted {
+    color: orange;
+}
+
+
+
+
+.last-seconds{
+  color: red;
+}
+
+
+.option{
+  margin: 15px;
+  
+
+}
+
+.jumbotron {
+  background-color: orange;
+  width: 800px;
+  height: 500px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+ 
+  
